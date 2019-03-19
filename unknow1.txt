@@ -6,4 +6,4 @@ diff
 git branch
 master branch
 resolving conflicts
-update
+delete
