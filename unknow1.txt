@@ -8,3 +8,4 @@ master branch
 resolving conflicts
 delete
 test remote branch
+test what is the differrence between pull and fetch
